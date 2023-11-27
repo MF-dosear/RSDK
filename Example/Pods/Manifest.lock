@@ -1,0 +1,18 @@
+PODS:
+  - RSDK (0.1.0):
+    - RSDK/Main (= 0.1.0)
+  - RSDK/Main (0.1.0)
+
+DEPENDENCIES:
+  - RSDK (from `../`)
+
+EXTERNAL SOURCES:
+  RSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RSDK: e8b4af0cbc2b43e36b6c49101574702b7f47346a
+
+PODFILE CHECKSUM: da5116099498eaaf4a414b0e94d8edea3351682d
+
+COCOAPODS: 1.14.3

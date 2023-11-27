@@ -7,6 +7,7 @@
 //
 
 #import "RKViewController.h"
+#import <RSDK/RSDK.h>
 
 @interface RKViewController ()
 

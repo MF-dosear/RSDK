@@ -1,0 +1,6 @@
+framework module RSDK {
+  umbrella header "RSDK.h"
+  export *
+
+  module * { export * }
+}
